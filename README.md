@@ -3,7 +3,7 @@ GenerativeScripts
 
 Little scripts helping exploring generative art.
 
-ImageShuffler.py
+IMAGESHUFFLER.PY
 
 A python code written after reading tutorial on manualy editing JPEGs with plain text editing, sort of blind image hacking. http://www.computerarts.co.uk/tutorials/break-jpeg-code
 
